@@ -1,4 +1,0 @@
-Snippets für später mal?
-
-<a href="About me.html">More about me</a>
-<p>
